@@ -1,0 +1,1 @@
+C:\Users\jsass\OneDrive\Documentos\GitHub\RedesRebouletSolis\redes-rust\target\debug\redes-rust.exe: C:\Users\jsass\OneDrive\Documentos\GitHub\RedesRebouletSolis\redes-rust\src\main.rs C:\Users\jsass\OneDrive\Documentos\GitHub\RedesRebouletSolis\redes-rust\src\network.rs C:\Users\jsass\OneDrive\Documentos\GitHub\RedesRebouletSolis\redes-rust\src\ui.rs
